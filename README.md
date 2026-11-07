@@ -52,43 +52,6 @@ I'm a Computer Science and Engineering student specializing in Artificial Intell
 
 ---
 
-## Featured projects
-
-### LocalLens
-**A construction and renovation services platform**
-
-A platform concept connecting customers with contractors and skilled workers, with a focus on simplifying project creation and service discovery.
-
-- Role-based customer and worker experiences
-- Service discovery and project creation workflows
-- Built with React, TypeScript, and Tailwind CSS
-
-[Explore the repository →](https://github.com/indratammewar/LocalLens)
-
-### EduFlow
-**A digital learning and campus-oriented project**
-
-An educational web application exploring how technology can improve digital learning experiences and campus workflows.
-
-- Modern web application development
-- Component-based frontend architecture
-- TypeScript-based development
-
-[Explore the repository →](https://github.com/indratammewar/edu-flowed)
-
-### DSA Practical
-**Learning data structures and algorithms**
-
-A collection of practical programming exercises focused on strengthening problem-solving skills and understanding core computer science concepts.
-
-- Algorithm implementation
-- Programming practice
-- Building stronger fundamentals
-
-[Explore the repository →](https://github.com/indratammewar/dsa-practical)
-
----
-
 ## GitHub statistics
 
 <p align="center">
